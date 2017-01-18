@@ -1,0 +1,14 @@
+karma.conf.js
+.DS_Store
+.bowerrc
+.csslintrc
+.editorconfig
+.jshintrc
+generate-ssl-certs.sh
+gruntfile.js
+README.md
+resources/*
+notes/*
+node_modules/*
+private/*
+
